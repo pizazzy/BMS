@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+#login{
+    width: 425px;
+    background-color: #026cff;
+    margin: 0px;
+}
+
+
+
+
+body {
+    background-image: url("bg.jpg");
+    /*background-repeat: no-repeat;*/
+    background-position:center;
+    background-attachment: fixed;
+
+}
