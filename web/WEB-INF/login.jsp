@@ -25,14 +25,31 @@
     <div>
         <img src="index_hz01.gif" alt="">
     </div>
-    <div id="login">
+    <div id="login" >
 
-        账 号 :
-        <input type="text"><br>
-        密 码 :
-        <input type="password"><br>
-        验证码:
-        <input type="text"><br>
+        <form action="/login">
+
+            <div align="left"  class="denglu" style="margin-left: 110px">
+
+                账&#160&#160&#160号:
+                <input type="text" name="uname"><br>
+                密&#160&#160&#160码:
+                <input type="password" name="pwd"><br>
+
+               验证码:
+                <input type="text"  id="yanzhengma" style="width: 80px"> 3476<br>
+
+
+
+            </div>
+
+            <div align="center">
+                <input type="image" src="index_hz04.gif" alt="">
+            </div>
+
+
+        </form>
+
 
     </div>
 </div>

@@ -2,9 +2,20 @@ h1{
     color: red;
 }
 #login{
-    width: 425px;
-    background-color: #026cff;
+    width: 420px;
+    background-color: #0aa4ff;
     margin: 0px;
+    border: 4px solid white;
+    border-right: 4px solid white ;
+}
+/*
+div>input{
+    width:80px;
+    max-width: 80px;
+}
+*/
+.denglu{
+    margin-left: 20px;
 }
 
 
