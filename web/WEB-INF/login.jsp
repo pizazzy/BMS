@@ -36,8 +36,10 @@
                 密&#160&#160&#160码:
                 <input type="password" name="pwd"><br>
 
+              <%--
                验证码:
                 <input type="text"  id="yanzhengma" style="width: 80px"> 3476<br>
+              --%>
 
 
 

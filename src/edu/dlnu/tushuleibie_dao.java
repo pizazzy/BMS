@@ -26,7 +26,7 @@ public class tushuleibie_dao {
                 tushuleibie.set序号(resultSet.getInt("序号"));
                 tushuleibie.set图书类别(resultSet.getString("图书类别"));
                 tushuleibie.set录入时间(resultSet.getTimestamp("录入时间"));
-                tushuleibie.set删除(resultSet.getString("删除"));
+               // tushuleibie.set删除(resultSet.getString("删除"));
                 list.add(tushuleibie);
 
             }

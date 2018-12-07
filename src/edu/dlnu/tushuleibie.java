@@ -44,9 +44,9 @@ public class tushuleibie {
 
     public String get删除() {
         return 删除;
-    }
+   }
 
-    public void set删除(String 删除) {
-        this.删除 = 删除;
-    }
+   public void set删除(String 删除) {
+       this.删除 = 删除;
+   }
 }
